@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GroBest\android\AndroidStudio\SlidingMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78591e03912bf1bf02ab217caca0bdb247a040b">
+        <dex dex="D:\GroBest\android\AndroidStudio\SlidingMenu\app\build\intermediates\pre-dexed\debug\instant-run_968613afeaabd8a00e316b486958539ac10d2e07.jar" />
+    </item>
+    <item
+        jar="D:\GroBest\android\AndroidStudio\SlidingMenu\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9b85a9124c1f6f6bf2d486b40d58ef1b39c6e9be">
+        <dex dex="D:\GroBest\android\AndroidStudio\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes_cf7ffed6bc4ad2737f04bd6f0b157fd83e4c8a5e.jar" />
+    </item>
+    <item
+        jar="D:\DevTools\android-studio-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\GroBest\android\AndroidStudio\SlidingMenu\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c16c01b9b7b83975e7dec749e653f0b467f659e.jar" />
+    </item>
+
+</items>
